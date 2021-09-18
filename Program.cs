@@ -23,7 +23,7 @@ namespace ProbarVisualGitHUb
             Console.WriteLine("$$$$$$$$$");
             primo.NumPri();           
             Console.ReadKey();
-            Console.WriteLine("Gracias por su atencion");
+            Console.WriteLine("Gracias por su atencion companeros");
             Console.ReadKey();
         }
     }
